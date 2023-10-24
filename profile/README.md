@@ -2,7 +2,7 @@
 
 <h1>What is ValidMind?</h1>
 
-<table>
+<table style="border: none;">
   <tbody>
     <tr>
       <td>The ValidMind platform is a suite of tools helping developers, data scientists and risk &amp; compliance stakeholders identify potential risks in their AI and large language models (LLMs), and generate robust, high-quality model documentation that meets regulatory requirements.<br><br>The platform is adept at handling many use cases, including models compatible with the Hugging Face Transformers API, and GPT 3.5, GPT 4, and hosted LLama2 and Falcon-based models that are focused on text classification and text summarization use cases.</td>
@@ -13,7 +13,7 @@
 
 <p>In addition to LLMs, ValidMind can also handle testing and documentation generation for a wide variety of models, including:</p>
 
-<table>
+<table style="border: none;">
   <tbody>
     <tr>
       <td>
