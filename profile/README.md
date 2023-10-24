@@ -1,6 +1,6 @@
 <img src="/profile/validmind-logo-color.svg" alt="ValidMind logo" title="ValidMind logo">
 
-<h1 style="color: #222425;">What is ValidMind?</h1>
+<h1>What is ValidMind?</h1>
 
 <table style="border: none;">
   <tbody>
@@ -34,7 +34,7 @@
 
 <p><a href="https://docs.validmind.ai/guide/overview.html" target="_blank">Read more ...</a></p>
 
-<h2 style="color: #222425;">Try it</h2>
+<h2>Try it</h2>
 
 <ul>
     <li><a href="https://docs.validmind.ai/guide/quickstart.html" target="_blank">Quickstart</a></li>
@@ -44,7 +44,7 @@
     <li><a href="https://docs.validmind.ai" target="_blank">More docs ...</a></li>
 </ul>
 
-<h2 style="color: #222425;">Join us</h2>
+<h2>Join us</h2>
 
 <ul>
   <li>Star our open-source software (OSS) repositories: 🌟
@@ -59,5 +59,5 @@
   <li>Check our <a href="https://validmind.com/careers/" target="_blank">Careers</a> page</li>
 </ul>
 
-<p>... and, if you're interested, <b><a href="https://docs.validmind.ai/guide/join-closed-beta.html" target="_blank">join the closed beta</b></a>! <img src="/profile/vm-closed-beta.png" alt="An image showing the ValidMind closed beta thumbnail" style="width: 25px;"></p>
+<p>... and, if you're interested, <b><a href="https://docs.validmind.ai/guide/join-closed-beta.html" target="_blank">join the closed beta</b></a>! <img src="/profile/vm-closed-beta.png" alt="An image showing the ValidMind closed beta thumbnail" style="width: 25px; vertical-align: "bottom;"></p>
 
