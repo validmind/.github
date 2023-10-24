@@ -5,8 +5,8 @@
 <table style="border: none;">
   <tbody>
     <tr>
-      <td>The ValidMind platform is a suite of tools helping developers, data scientists and risk &amp; compliance stakeholders identify potential risks in their AI and large language models (LLMs), and generate robust, high-quality model documentation that meets regulatory requirements.<br><br>The platform is adept at handling many use cases, including models compatible with the Hugging Face Transformers API, and GPT 3.5, GPT 4, and hosted LLama2 and Falcon-based models that are focused on text classification and text summarization use cases.</td>
-      <td><img src="/profile/validmind-dashboard.png" alt="An image showing the main ValidMind UI main dashboard" style="width: 350px; padding: 10px;"></td>
+      <td  style="border: none;">The ValidMind platform is a suite of tools helping developers, data scientists and risk &amp; compliance stakeholders identify potential risks in their AI and large language models (LLMs), and generate robust, high-quality model documentation that meets regulatory requirements.<br><br>The platform is adept at handling many use cases, including models compatible with the Hugging Face Transformers API, and GPT 3.5, GPT 4, and hosted LLama2 and Falcon-based models that are focused on text classification and text summarization use cases.</td>
+      <td  style="border: none;"><img src="/profile/validmind-dashboard.png" alt="An image showing the main ValidMind UI main dashboard" style="width: 350px; padding: 10px;"></td>
     </tr>
   </tbody>
 </table>
@@ -16,13 +16,13 @@
 <table style="border: none;">
   <tbody>
     <tr>
-      <td>
+      <td  style="border: none;">
         <ul>
           <li>Traditional machine learning models (ML), such as tree-based models and neural networks</li>
           <li>Natural language processing models (NLP)</li>
         </ul>
       </td>
-      <td>
+      <td  style="border: none;">
         <ul>
           <li>Traditional statistical models, such as OLS regression, logistic regression, time series, etc.</li>
           <li>And many more model types</li>
@@ -59,6 +59,6 @@
   <li>Check our <a href="https://validmind.com/careers/" target="_blank">Careers</a> page</li>
 </ul>
 
-<p>... and, if you're interested, <b><a href="https://docs.validmind.ai/guide/join-closed-beta.html" target="_blank">join the closed beta</b></a>!</p>
+<p>... and, if you're interested, <b><a href="https://docs.validmind.ai/guide/join-closed-beta.html" target="_blank">join the closed beta!</b></a></p>
 
 <img src="/profile/closed-beta-banner.png" alt="An image showing the ValidMind closed beta thumbnail" style="width: 100%">
