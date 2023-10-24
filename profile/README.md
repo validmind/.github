@@ -1,6 +1,6 @@
 <img src="/profile/validmind-logo-color.svg" alt="ValidMind logo" title="ValidMind logo">
 
-<h1 style="color: black;">What is ValidMind?</h1>
+<h1 style="color: #222425;">What is ValidMind?</h1>
 
 <table style="border: none;">
   <tbody>
@@ -34,7 +34,7 @@
 
 <p><a href="https://docs.validmind.ai/guide/overview.html" target="_blank">Read more ...</a></p>
 
-<h2 style="color: black;">Try it</h2>
+<h2 style="color: #222425;">Try it</h2>
 
 <ul>
     <li><a href="https://docs.validmind.ai/guide/quickstart.html" target="_blank">Quickstart</a></li>
@@ -44,7 +44,7 @@
     <li><a href="https://docs.validmind.ai" target="_blank">More docs ...</a></li>
 </ul>
 
-<h2 style="color: black;">Join us</h2>
+<h2 style="color: #222425;">Join us</h2>
 
 <ul>
   <li>Star our open-source software (OSS) repositories: 🌟
