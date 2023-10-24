@@ -11,54 +11,33 @@
   </tbody>
 </table>
 
-<p>In addition to LLMs, ValidMind can also handle testing and documentation generation for a wide variety of models, including:</p>
+In addition to LLMs, ValidMind can also handle testing and documentation generation for a wide variety of models, including:
 
-<table style="border: none;">
-  <tbody>
-    <tr>
-      <td  style="border: none;">
-        <ul>
-          <li>Traditional machine learning models (ML), such as tree-based models and neural networks</li>
-          <li>Natural language processing models (NLP)</li>
-        </ul>
-      </td>
-      <td  style="border: none;">
-        <ul>
-          <li>Traditional statistical models, such as OLS regression, logistic regression, time series, etc.</li>
-          <li>And many more model types</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| | |
+|-|-|
+| - Traditional machine learning models (ML), such as tree-based models and neural networks<br/>- Natural language processing models (NLP) | - Traditional statistical models, such as OLS regression, logistic regression, time series, etc.<br/>- And many more model types |
 
-<p><a href="https://docs.validmind.ai/guide/overview.html" target="_blank">Read more ...</a></p>
+[Read more ...](https://docs.validmind.ai/guide/overview.html)
+
 
 ## Try it
 
-<ul>
-    <li><a href="https://docs.validmind.ai/guide/quickstart.html" target="_blank">Quickstart</a></li>
-    <li><a href="https://docs.validmind.ai/guide/get-started-developer-framework.html" target="_blank">Get started as a developer</a></li>
-    <li><a href="https://github.com/validmind/developer-framework/tree/main/notebooks" target="_blank">Code samples</a> (<a href="https://docs.validmind.ai/notebooks.zip">notebooks.zip ⬇️</a>)</li>
-    <li><a href="https://docs.validmind.ai/validmind/validmind.html" target="_blank">API reference</a></li>
-    <li><a href="https://docs.validmind.ai" target="_blank">More docs ...</a></li>
-</ul>
+- [Quickstart](https://docs.validmind.ai/guide/quickstart.html)
+- [Get started as a developer](https://docs.validmind.ai/guide/get-started-developer-framework.html)
+- [Code samples](https://github.com/validmind/developer-framework/tree/main/notebooks) ([notebooks.zip ⬇️](https://docs.validmind.ai/notebooks.zip))
+- [API reference](https://docs.validmind.ai/validmind/validmind.html)
+- [More docs ...](https://docs.validmind.ai)
 
 ## Join us
 
-<ul>
-  <li>Star our open-source software (OSS) repositories: 🌟
-      <ul>
-          <li><a href="https://github.com/validmind/developer-framework" target="_blank">Validmind Developer Framework</a></li>
-           <li><a href="https://github.com/validmind/developer-framework" target="_blank">ValidMind Documentation</a></li>
-      </ul>
-  </li>
-  <li>Join our <a href="https://docs.validmind.ai/guide/join-community.html" target="_blank">Slack community</a></li>
-  <li>Read our <a href="https://validmind.com/blog/" target="_blank">blog</a></li>
-  <li>Follow us on <a href="https://www.linkedin.com/company/validmind" target="_blank">LinkedIn</a></li>
-  <li>Check our <a href="https://validmind.com/careers/" target="_blank">Careers</a> page</li>
-</ul>
+- Star our open-source software (OSS) repositories: 🌟
+  - [Validmind Developer Framework](https://github.com/validmind/developer-framework)
+  - [ValidMind Documentation](https://github.com/validmind/developer-framework)
+- [Join our Slack community](https://docs.validmind.ai/guide/join-community.html)
+- [Read our blog](https://validmind.com/blog/)
+- [Follow us on LinkedIn](https://www.linkedin.com/company/validmind)
+- [Check our Careers page](https://validmind.com/careers/)
 
-<p>... and, if you're interested, <b><a href="https://docs.validmind.ai/guide/join-closed-beta.html" target="_blank">join the closed beta!</b></a></p>
+... and, if you're interested, **[join the closed beta!](https://docs.validmind.ai/guide/join-closed-beta.html)**
 
-<img src="/profile/closed-beta-banner.png" alt="An image showing the ValidMind closed beta thumbnail" style="width: 100%">
+![An image showing the ValidMind closed beta thumbnail](/profile/closed-beta-banner.png)
