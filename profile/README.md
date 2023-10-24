@@ -61,4 +61,4 @@
 
 <p>... and, if you're interested, <b><a href="https://docs.validmind.ai/guide/join-closed-beta.html" target="_blank">join the closed beta</b></a>!</p>
 
-<img src="/profile/closed-beta-banner.png" alt="An image showing the ValidMind closed beta thumbnail" style="width: 480px;">
+<img src="/profile/closed-beta-banner.png" alt="An image showing the ValidMind closed beta thumbnail" style="width: 100%">
