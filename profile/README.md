@@ -1,4 +1,4 @@
-<img src="images/validmind-logo-color.svg" alt="ValidMind logo" title="ValidMind logo">
+<img src="validmind-logo-color.svg" alt="ValidMind logo" title="ValidMind logo">
 
 <h1>What is ValidMind?</h1>
 
@@ -6,7 +6,7 @@
   <tbody>
     <tr>
       <td>The ValidMind platform is a suite of tools helping developers, data scientists and risk &amp; compliance stakeholders identify potential risks in their AI and large language models (LLMs), and generate robust, high-quality model documentation that meets regulatory requirements.<br><br>The platform is adept at handling many use cases, including models compatible with the Hugging Face Transformers API, and GPT 3.5, GPT 4, and hosted LLama2 and Falcon-based models that are focused on text classification and text summarization use cases.</td>
-      <td><img src="images/validmind-dashboard.png" alt="An image showing the main ValidMind UI main dashboard" style="width: 350px; padding: 10px;"></td>
+      <td><img src="validmind-dashboard.png" alt="An image showing the main ValidMind UI main dashboard" style="width: 350px; padding: 10px;"></td>
     </tr>
   </tbody>
 </table>
@@ -59,5 +59,5 @@
   <li>Check our <a href="https://validmind.com/careers/" target="_blank">Careers</a> page</li>
 </ul>
 
-<p>... and, if you're interested, <b><a href="https://docs.validmind.ai/guide/join-closed-beta.html" target="_blank">join the closed beta</b></a>! <img src="images/vm-closed-beta.png" alt="An image showing the ValidMind closed beta thumbnail" style="width: 25px;"></p>
+<p>... and, if you're interested, <b><a href="https://docs.validmind.ai/guide/join-closed-beta.html" target="_blank">join the closed beta</b></a>! <img src="vm-closed-beta.png" alt="An image showing the ValidMind closed beta thumbnail" style="width: 25px;"></p>
 
