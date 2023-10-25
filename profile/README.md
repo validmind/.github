@@ -1,21 +1,19 @@
-<img src="/profile/validmind-logo-color.svg" alt="ValidMind logo" title="ValidMind logo">
+![](/profile/validmind-logo-color.svg){fig-alt="ValidMind logo"}
 
 # What is ValidMind?
 
-<table style="border: none;">
-  <tbody>
-    <tr>
-      <td  style="border: none;">The ValidMind platform is a suite of tools helping developers, data scientists and risk &amp; compliance stakeholders identify potential risks in their AI and large language models (LLMs), and generate robust, high-quality model documentation that meets regulatory requirements.<br><br>The platform is adept at handling many use cases, including models compatible with the Hugging Face Transformers API, and GPT 3.5, GPT 4, and hosted LLama2 and Falcon-based models that are focused on text classification and text summarization use cases.</td>
-      <td  style="border: none;"><img src="/profile/validmind-dashboard.png" alt="An image showing the main ValidMind UI main dashboard" style="width: 350px; padding: 10px;"></td>
-    </tr>
-  </tbody>
-</table>
+The ValidMind platform is a suite of tools helping developers, data scientists and risk & compliance stakeholders identify potential risks in their AI and large language models (LLMs), and generate robust, high-quality model documentation that meets regulatory requirements.
+
+The platform is adept at handling many use cases, including models compatible with the Hugging Face Transformers API, and GPT 3.5, GPT 4, and hosted LLama2 and Falcon-based models that are focused on text classification and text summarization use cases.
+
+![](/profile/validmind-dashboard.png){fig-alt="An image showing the main ValidMind UI main dashboard"}
 
 In addition to LLMs, ValidMind can also handle testing and documentation generation for a wide variety of models, including:
 
-| | |
-|-|-|
-| - Traditional machine learning models (ML), such as tree-based models and neural networks<br/>- Natural language processing models (NLP) | - Traditional statistical models, such as OLS regression, logistic regression, time series, etc.<br/>- And many more model types |
+- Traditional machine learning models (ML), such as tree-based models and neural networks
+- Natural language processing models (NLP)
+- Traditional statistical models, such as OLS regression, logistic regression, time series, etc.
+- And many more model types
 
 [Read more ...](https://docs.validmind.ai/guide/overview.html)
 
