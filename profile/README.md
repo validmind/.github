@@ -37,6 +37,4 @@ In addition to LLMs, ValidMind can also handle testing and documentation generat
 - [Follow us on LinkedIn](https://www.linkedin.com/company/validmind)
 - [Check our Careers page](https://validmind.com/careers/)
 
-... and, if you're interested, **[join the closed beta!](https://docs.validmind.ai/guide/join-closed-beta.html)**
-
-![ValidMind closed beta](/profile/vm-closed-beta.png)
+... and, if you're interested, **[join the closed beta!](https://docs.validmind.ai/guide/join-closed-beta.html)** <img src="/profile/vm-closed-beta.png" alt="ValidMind closed beta" style="width: 20px;">
