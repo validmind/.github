@@ -1,13 +1,14 @@
-![](/profile/validmind-logo-color.svg){fig-alt="ValidMind logo"}
+<img src="/profile/validmind-logo-color.svg" alt="ValidMind logo">
 
 # What is ValidMind?
 
 The ValidMind platform is a suite of tools helping developers, data scientists and risk & compliance stakeholders identify potential risks in their AI and large language models (LLMs), and generate robust, high-quality model documentation that meets regulatory requirements.
 
+<p align="center">
+  <img src="/profile/validmind-dashboard.png" alt="The ValidMind dashboard" style="width: 350px;">
+</p>
+
 The platform is adept at handling many use cases, including models compatible with the Hugging Face Transformers API, and GPT 3.5, GPT 4, and hosted LLama2 and Falcon-based models that are focused on text classification and text summarization use cases.
-
-<img src="/profile/validmind-dashboard.png" alt="The ValidMind UI" style="width: 350px; display: block; margin: auto;">
-
 
 In addition to LLMs, ValidMind can also handle testing and documentation generation for a wide variety of models, including:
 
