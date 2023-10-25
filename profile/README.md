@@ -6,7 +6,8 @@ The ValidMind platform is a suite of tools helping developers, data scientists a
 
 The platform is adept at handling many use cases, including models compatible with the Hugging Face Transformers API, and GPT 3.5, GPT 4, and hosted LLama2 and Falcon-based models that are focused on text classification and text summarization use cases.
 
-![The ValidMind UI](/profile/validmind-dashboard.png)
+<img src="/profile/validmind-dashboard.png" alt="The ValidMind UI" style="width: 350px; display: block; margin: auto;">
+
 
 In addition to LLMs, ValidMind can also handle testing and documentation generation for a wide variety of models, including:
 
