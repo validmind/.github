@@ -17,12 +17,12 @@ In addition to LLMs, ValidMind can also handle testing and documentation generat
 - Traditional statistical models, such as OLS regression, logistic regression, time series, etc.
 - And many more model types
 
-[Read more ...](https://docs.validmind.ai/guide/overview.html)
+[Read more ...](https://docs.validmind.ai/about/overview.html)
 
 ## Try it
 
-- [Quickstart](https://docs.validmind.ai/guide/quickstart.html)
-- [Get started as a developer](https://docs.validmind.ai/guide/get-started-developer-framework.html)
+- [Quickstart](https://docs.validmind.ai/get-started/quickstart.html)
+- [Get started as a developer](https://docs.validmind.ai/developer/get-started-developer-framework.html)
 - [Code samples](https://github.com/validmind/developer-framework/tree/main/notebooks) ([notebooks.zip ⬇️](https://docs.validmind.ai/notebooks.zip))
 - [API reference](https://docs.validmind.ai/validmind/validmind.html)
 - [More docs ...](https://docs.validmind.ai)
@@ -32,9 +32,7 @@ In addition to LLMs, ValidMind can also handle testing and documentation generat
 - Star our open-source software (OSS) repositories: 🌟
   - [Validmind Developer Framework](https://github.com/validmind/developer-framework)
   - [ValidMind Documentation](https://github.com/validmind/developer-framework)
-- [Join our Slack community](https://docs.validmind.ai/guide/join-community.html)
+- [Join our Slack community](https://docs.validmind.ai/about/contributing/join-community.html)
 - [Read our blog](https://validmind.com/blog/)
 - [Follow us on LinkedIn](https://www.linkedin.com/company/validmind)
 - [Check our Careers page](https://validmind.com/careers/)
-
-... and, if you're interested, **[join the closed beta!](https://docs.validmind.ai/guide/join-closed-beta.html)**
