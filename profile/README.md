@@ -21,7 +21,7 @@ In addition to LLMs, ValidMind can also handle testing and documentation generat
 
 ## Try it
 
-- [Quickstart](https://docs.validmind.ai/get-started/quickstart.html)
+- [QuickStart](https://docs.validmind.ai/get-started/developer/try-with-jupyterhub.html)
 - [Get started as a developer](https://docs.validmind.ai/developer/get-started-developer-framework.html)
 - [Code samples](https://github.com/validmind/developer-framework/tree/main/notebooks) ([notebooks.zip ⬇️](https://docs.validmind.ai/notebooks.zip))
 - [API reference](https://docs.validmind.ai/validmind/validmind.html)
