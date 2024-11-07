@@ -30,7 +30,7 @@ In addition to LLMs, ValidMind can also handle testing and documentation generat
 ## Join us
 
 - Star our open-source software (OSS) repositories: 🌟
-  - [Validmind Developer Framework](https://github.com/validmind/developer-framework)
+  - [Validmind Library](https://github.com/validmind/developer-framework)
   - [ValidMind Documentation](https://github.com/validmind/developer-framework)
 - [Join our Slack community](https://docs.validmind.ai/about/contributing/join-community.html)
 - [Read our blog](https://validmind.com/blog/)
