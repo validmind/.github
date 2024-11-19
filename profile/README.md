@@ -1,4 +1,4 @@
-<img src="/profile/validmind-logo-color.svg" alt="ValidMind logo">
+<img src="https://vmai.s3.us-west-1.amazonaws.com/validmind-logo.svg" alt="ValidMind logo">
 
 # What is ValidMind?
 
