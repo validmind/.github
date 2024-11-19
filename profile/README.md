@@ -22,16 +22,16 @@ In addition to LLMs, ValidMind can also handle testing and documentation generat
 ## Try it
 
 - [QuickStart](https://docs.validmind.ai/get-started/developer/try-with-jupyterhub.html)
-- [Get started as a developer](https://docs.validmind.ai/developer/get-started-developer-framework.html)
-- [Code samples](https://github.com/validmind/developer-framework/tree/main/notebooks) ([notebooks.zip ⬇️](https://docs.validmind.ai/notebooks.zip))
+- [Get started as a developer](https://docs.validmind.ai/developer/get-started-validmind-library.html)
+- [Code samples](https://github.com/validmind/validmind-library/tree/main/notebooks) ([notebooks.zip ⬇️](https://docs.validmind.ai/notebooks.zip))
 - [API reference](https://docs.validmind.ai/validmind/validmind.html)
 - [More docs ...](https://docs.validmind.ai)
 
 ## Join us
 
 - Star our open-source software (OSS) repositories: 🌟
-  - [Validmind Library](https://github.com/validmind/developer-framework)
-  - [ValidMind Documentation](https://github.com/validmind/developer-framework)
+  - [Validmind Library](https://github.com/validmind/validmind-library)
+  - [ValidMind Documentation](https://github.com/validmind/documentation)
 - [Join our Slack community](https://docs.validmind.ai/about/contributing/join-community.html)
 - [Read our blog](https://validmind.com/blog/)
 - [Follow us on LinkedIn](https://www.linkedin.com/company/validmind)
